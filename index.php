@@ -15,6 +15,9 @@
  echo "Winner"; 
  } 
 
+  else
+  {echo "roll again";
+       }
  
  ?>
  </body> 
