@@ -15,8 +15,9 @@
  echo "Winner"; 
  } 
 else {
-echo "roll again"
-}
+echo "roll again";
+ }
+
  
  ?>
  </body> 
