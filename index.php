@@ -20,8 +20,8 @@
        }
  
   
-    switch($dice)
-    {
+   switch($dice)
+   {
     case 1:
      echo "you rolled a 1";
      break;
