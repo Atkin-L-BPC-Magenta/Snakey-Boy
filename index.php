@@ -14,9 +14,6 @@
     ($dice == "6") { 
  echo "Winner"; 
  } 
-else {
-echo "roll again";
- }
 
  
  ?>
